@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3250031964795493454}
   - component: {fileID: 577878402020547366}
   - component: {fileID: 3881188338813027426}
+  - component: {fileID: -5110112449678234722}
   m_Layer: 1
   m_Name: red explosion
   m_TagString: Untagged
@@ -4888,3 +4889,15 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!114 &-5110112449678234722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8410426682939782117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c788a7559e63aa94ea7b23bae442a4af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

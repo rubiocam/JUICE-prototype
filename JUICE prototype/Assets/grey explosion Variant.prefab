@@ -14,11 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 577878402020547366, guid: f557c1cec0a409e41945880801fad99e, type: 3}
       propertyPath: lengthInSec
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 577878402020547366, guid: f557c1cec0a409e41945880801fad99e, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 577878402020547366, guid: f557c1cec0a409e41945880801fad99e, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
